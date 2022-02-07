@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+html,
+body {
+  min-height: 100%;
+  background: rgb(219, 82, 82);
+  color: #000;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  border: 5px solid black;
+  background-color: aqua;
+}
+
+.cards {
+  background-color: bisque;
+  border: black solid;
+}
